@@ -1,5 +1,5 @@
 # LoginApp-Dicoding
-Membuat Laman Login by Dicoding
+Membuat Laman Login ft Dicoding
 
 Alur Fitur Login:
 1. Memasukkan email dan password
